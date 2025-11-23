@@ -1,8 +1,6 @@
-# Notron kodlayıcı
+# 👋 Merhaba, ben Mehmet Mert yada kısaca Nötron
 
-# 👋 Merhaba, ben Nötron
-
-🎨 Tasarımcı & 💻 Yazılımcı | C++ • C# • Python • Arduino
+🎨 Tasarımcı & 💻 Yazılımcı | C# • Python • Arduino
 
 Karmaşık fikirleri sade kodlara dönüştüren, hem estetik hem işlevsel projeler geliştiren bir teknoloji tutkunu. Donanım ve yazılımın kesişim noktasında çalışmayı seviyorum — Arduino ile fiziksel dünyayı kodla şekillendirirken, C++ ve C# ile performans odaklı uygulamalar geliştiriyorum. Python ise benim için hem otomasyon hem de yaratıcılık demek.
 
@@ -10,10 +8,9 @@ Karmaşık fikirleri sade kodlara dönüştüren, hem estetik hem işlevsel proj
 - Gömülü sistemler ve Arduino projeleri
 - Oyun geliştirme ve grafik tasarım
 - Python ile otomasyon ve veri işleme
-- UI/UX tasarımı ve dijital sanat
+- pixel art tasarımı ve dijital sanat
 
 ## 🛠️ Kullandığım Teknolojiler
-C++
 C#
 Python
 Arduino
